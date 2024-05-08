@@ -1,0 +1,274 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "binary_tree",
+            "request": "launch",
+            "mainClass": "binary_tree",
+            "projectName": ""
+        },
+        {
+            "type": "java",
+            "name": "TreeNode",
+            "request": "launch",
+            "mainClass": "TreeNode",
+            "projectName": ""
+        },
+        {
+            "type": "java",
+            "name": "pcph_92A",
+            "request": "launch",
+            "mainClass": "pcph_92A",
+            "projectName": ""
+        },
+        {
+            "type": "java",
+            "name": "pcph",
+            "request": "launch",
+            "mainClass": "pcph",
+            "projectName": ""
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": ""
+        },
+        {
+            "type": "java",
+            "name": "pattern2",
+            "request": "launch",
+            "mainClass": "pattern2",
+            "projectName": ""
+        },
+        {
+            "type": "java",
+            "name": "SimpleSwingProgram",
+            "request": "launch",
+            "mainClass": "SimpleSwingProgram",
+            "projectName": ""
+        },
+        {
+            "type": "java",
+            "name": "StringAssignment",
+            "request": "launch",
+            "mainClass": "StringAssignment",
+            "projectName": ""
+        },
+        {
+            "type": "java",
+            "name": "FibonacciExample",
+            "request": "launch",
+            "mainClass": "FibonacciExample",
+            "projectName": ""
+        },
+        {
+            "name": "Attach to Chrome",
+            "port": 9222,
+            "request": "attach",
+            "type": "chrome",
+            "webRoot": "${workspaceFolder}"
+        },
+        {
+            "name": "Launch Chrome",
+            "request": "launch",
+            "type": "chrome",
+            "url": "http://localhost:8080",
+            "webRoot": "${workspaceFolder}"
+        },
+        {
+            "type": "java",
+            "name": "practical",
+            "request": "launch",
+            "mainClass": "practical",
+            "projectName": "code_72e5cfe6"
+        },
+        {
+            "type": "java",
+            "name": "Notepad",
+            "request": "launch",
+            "mainClass": "com.javatpoint.Notepad",
+            "projectName": "JApps"
+        },
+        {
+            "type": "java",
+            "name": "methods",
+            "request": "launch",
+            "mainClass": "methods",
+            "projectName": "code_72e5cfe6"
+        },
+        {
+            "type": "java",
+            "name": "pattern3",
+            "request": "launch",
+            "mainClass": "pattern3",
+            "projectName": "code_72e5cfe6"
+        },
+        {
+            "type": "java",
+            "name": "p",
+            "request": "launch",
+            "mainClass": "o.p",
+            "projectName": "code_72e5cfe6"
+        },
+        {
+            "type": "java",
+            "name": "MyCalculator",
+            "request": "launch",
+            "mainClass": "com.javatpoint.MyCalculator",
+            "projectName": "JApps"
+        },
+        {
+            "type": "java",
+            "name": "JApps",
+            "request": "launch",
+            "mainClass": "com.javatpoint.JApps",
+            "projectName": "JApps"
+        },
+        {
+            "type": "java",
+            "name": "FindReplaceDemo",
+            "request": "launch",
+            "mainClass": "com.javatpoint.FindReplaceDemo",
+            "projectName": "JApps"
+        },
+        {
+            "type": "java",
+            "name": "srtarray01",
+            "request": "launch",
+            "mainClass": "srtarray01",
+            "projectName": "code_72e5cfe6"
+        },
+        {
+            "type": "java",
+            "name": "bill",
+            "request": "launch",
+            "mainClass": "bill",
+            "projectName": "code_72e5cfe6"
+        },
+        {
+            "type": "java",
+            "name": "course",
+            "request": "launch",
+            "mainClass": "course",
+            "projectName": "code_72e5cfe6"
+        },
+        {
+            "type": "java",
+            "name": "StringAssignment",
+            "request": "launch",
+            "mainClass": "StringAssignment",
+            "projectName": "code_72e5cfe6"
+        },
+        {
+            "type": "java",
+            "name": "diamond",
+            "request": "launch",
+            "mainClass": "diamond",
+            "projectName": "code_72e5cfe6"
+        },
+        {
+            "type": "java",
+            "name": "pattern2",
+            "request": "launch",
+            "mainClass": "pattern2",
+            "projectName": "code_72e5cfe6"
+        },
+        {
+            "type": "java",
+            "name": "FunctionExample",
+            "request": "launch",
+            "mainClass": "FunctionExample",
+            "projectName": "code_72e5cfe6"
+        },
+        {
+            "type": "java",
+            "name": "pattern",
+            "request": "launch",
+            "mainClass": "pattern",
+            "projectName": "code_72e5cfe6"
+        },
+        {
+            "type": "java",
+            "name": "hello",
+            "request": "launch",
+            "mainClass": "hello",
+            "projectName": "code_72e5cfe6"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Simple",
+            "request": "launch",
+            "mainClass": "Simple",
+            "projectName": "code_72e5cfe6"
+        },
+        {
+            "type": "java",
+            "name": "MyClass",
+            "request": "launch",
+            "mainClass": "java.MyClass",
+            "projectName": "code_72e5cfe6"
+        },
+        {
+            "type": "pwa-msedge",
+            "name": "Launch Microsoft Edge",
+            "request": "launch",
+            "runtimeArgs": [
+                "--remote-debugging-port=9222"
+            ],
+            "url": "c:\\Users\\Asus\\.vscode\\extensions\\ms-edgedevtools.vscode-edge-devtools-2.1.3\\out\\startpage\\index.html",
+            "presentation": {
+                "hidden": true
+            }
+        },
+        {
+            "type": "pwa-msedge",
+            "name": "Launch Microsoft Edge in headless mode",
+            "request": "launch",
+            "runtimeArgs": [
+                "--headless",
+                "--remote-debugging-port=9222"
+            ],
+            "url": "c:\\Users\\Asus\\.vscode\\extensions\\ms-edgedevtools.vscode-edge-devtools-2.1.3\\out\\startpage\\index.html",
+            "presentation": {
+                "hidden": true
+            }
+        },
+        {
+            "type": "vscode-edge-devtools.debug",
+            "name": "Open Edge DevTools",
+            "request": "attach",
+            "url": "c:\\Users\\Asus\\.vscode\\extensions\\ms-edgedevtools.vscode-edge-devtools-2.1.3\\out\\startpage\\index.html",
+            "presentation": {
+                "hidden": true
+            }
+        }
+    ],
+    "compounds": [
+        {
+            "name": "Launch Edge Headless and attach DevTools",
+            "configurations": [
+                "Launch Microsoft Edge in headless mode",
+                "Open Edge DevTools"
+            ]
+        },
+        {
+            "name": "Launch Edge and attach DevTools",
+            "configurations": [
+                "Launch Microsoft Edge",
+                "Open Edge DevTools"
+            ]
+        }
+    ]
+}
